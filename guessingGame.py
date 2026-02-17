@@ -32,4 +32,3 @@ def game(answer):
             time.sleep(1)
 
 main()
-
